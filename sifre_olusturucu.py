@@ -7,7 +7,7 @@ kucuk_harfler = string.ascii_lowercase
 semboller = string.punctuation
 tum_karakterler = [rakamlar,buyuk_harfler,kucuk_harfler,semboller]
 
-sifre =""
+sifre = ""
 
 for j in range (4):
     for i in range (2):
